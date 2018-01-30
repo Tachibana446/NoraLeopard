@@ -1,0 +1,7 @@
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\bin\Debug\SendTextToVoiceroid.exe.config
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\bin\Debug\SendTextToVoiceroid.exe
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\bin\Debug\SendTextToVoiceroid.pdb
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\obj\Debug\SendTextToVoiceroid.csprojResolveAssemblyReference.cache
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\obj\Debug\SendTextToVoiceroid.csproj.CoreCompileInputs.cache
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\obj\Debug\SendTextToVoiceroid.exe
+D:\Nameka\Documents\UnityProject\TDef\VoiceToText\SendTextToVoiceroid\obj\Debug\SendTextToVoiceroid.pdb
